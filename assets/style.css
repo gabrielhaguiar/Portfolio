@@ -188,7 +188,10 @@ header {
     margin-top: 5%
 }
 
-
+.social-media a:hover {
+    color: #4e95f1;
+    padding: 20px;
+}
 
 /*---------SOBRE---------*/
 
@@ -255,7 +258,10 @@ P {
     padding: 2%;
 }
 
-
+.sobre-mim_descricao-buttons a:hover {
+    color: #4e95f1;
+    padding: 20px;
+}
 
 /*------PROJETOS------*/
 
